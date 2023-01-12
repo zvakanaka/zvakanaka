@@ -10,6 +10,7 @@
   
 - [color-json](https://www.npmjs.com/package/color-json)
 - [promise-prompt](https://www.npmjs.com/package/promise-prompt)
+- [curl-string](https://www.npmjs.com/package/curl-string)
 
 </td><td valign="top" width="33%">
   
