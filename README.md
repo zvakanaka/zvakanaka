@@ -35,7 +35,7 @@
 </td><td valign="top" width="33%">
   
 <!-- [<img src="https://avatars.githubusercontent.com/u/1545643?s=200&v=4" width="48" />](https://codepen.io/zvakanaka) -->
-<p><a href="https://npmjs.com/~zvakanaka"><img align="left" src="https://avatars.githubusercontent.com/u/1545643?s=200&v=4" width="48"/></a>
+<p><a href="https://codepen.io/zvakanaka"><img align="left" src="https://avatars.githubusercontent.com/u/1545643?s=200&v=4" width="48"/></a>
 <span align="right">CodePen Collections</span>
   </p>
   
